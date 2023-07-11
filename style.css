@@ -1483,10 +1483,20 @@ body {
   @media screen and (max-width:767px){
 
     .client__card p {
-      font-size: 6px;
-      font-weight: 900;
+      font-size: 15px;
+    
       
     }
+
+    .section_header{
+      font-size:20px;
+    }
+
+    .subscribe__description {
+      font-size:15px;
+    }
+    
+  
 
     .client_car{
 width:100%;
