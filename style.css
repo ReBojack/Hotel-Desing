@@ -1489,16 +1489,21 @@ body {
     }
 
     .section_header{
-      font-size:20px;
+      font-size:15px;
     }
 
-    .subscribe__description {
-      font-size:15px;
+   
+    .subscribe__description{
+      font-size:10px;
+    }
+
+    .process__grid p{
+      font-size:13px;
     }
     
   
 
-    .client_car{
+    .client_card{
 width:100%;
   grid-template-columns: repeat(1, 1fr);
     }
