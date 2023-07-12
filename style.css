@@ -1531,9 +1531,7 @@ width:100%;
       width: 100%;
     }
 
-    .section__header{
-      font-size: 25px;
-    }
+   
 
     nav .navbar{
       width: 100%;
@@ -1570,6 +1568,15 @@ width:100%;
 
 
   }
+
+@media screen and (min-width:1024px){
+
+    .client_card{
+width:100%;
+  grid-template-columns: repeat(1, 1fr);
+    }
+
+}
 
 
   .social-buttons {
